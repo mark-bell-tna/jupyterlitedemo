@@ -47,3 +47,5 @@ bqplot
 scipy
 pandas
 requests
+json
+
